@@ -12,5 +12,5 @@ def count_empty_strings(array)
     |emp|
      if emp.empty?
        emp += 1
-   end 
+    end 
 end
