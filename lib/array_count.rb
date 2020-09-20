@@ -13,4 +13,5 @@ def count_empty_strings(array)
      if emp.empty?
        emp += 1
     end 
+  end
 end
