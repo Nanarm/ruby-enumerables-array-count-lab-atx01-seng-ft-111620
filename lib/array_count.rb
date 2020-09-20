@@ -12,5 +12,4 @@ def count_empty_strings(array)
     |total|
       total == " "
    end 
-   total
 end
