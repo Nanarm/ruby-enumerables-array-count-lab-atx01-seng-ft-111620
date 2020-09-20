@@ -4,7 +4,6 @@ def count_strings(array)
     |element|
       element.String?
    end 
-   element
 end
 
 def count_empty_strings(array)
